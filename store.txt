@@ -1,0 +1,14 @@
+ Volume in drive C is Allstate1
+ Volume Serial Number is A660-BBBC
+
+ Directory of c:\TEMP\git-real
+
+11/19/2016  03:06 PM    <DIR>          .
+11/19/2016  03:06 PM    <DIR>          ..
+11/19/2016  02:42 PM               486 cat.txt
+11/19/2016  02:34 PM                 0 LICENSE
+11/19/2016  02:34 PM             1,304 README.txt
+11/19/2016  03:06 PM                 0 store.txt
+11/19/2016  02:34 PM                 0 todo.txt
+               5 File(s)          1,790 bytes
+               2 Dir(s)  127,185,170,432 bytes free
