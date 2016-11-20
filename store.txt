@@ -1,6 +1,8 @@
-LICENSE
-README.txt
-cat.txt
-product.txt
-store.txt
-todo.txt
+total 32
+-rw-r--r--  1 MacBook  staff    0 Nov 19 17:06 LICENSE
+-rw-r--r--  1 MacBook  staff   63 Nov 19 18:58 README.txt
+-rw-r--r--  1 MacBook  staff  567 Nov 19 19:06 admin.txt
+-rw-r--r--  1 MacBook  staff  473 Nov 19 17:06 cat.txt
+-rw-r--r--  1 MacBook  staff  573 Nov 19 17:06 product.txt
+-rw-r--r--  1 MacBook  staff    0 Nov 19 19:06 store.txt
+-rw-r--r--  1 MacBook  staff    0 Nov 19 17:06 todo.txt
